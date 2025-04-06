@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" hight="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  💫 About Me:
 
 🔭 I’m currently working on enhancing my skills in full-stack development.<br>🌱 I’m currently learning advanced React, Next.js, and cloud deployment strategies.<br>👯 I’m looking to collaborate on open-source projects<br>💬 Ask me about web development, JavaScript, and TypeScript.<br>📫 How to reach me:nadunweerakoon24@gmail.com<br>⚡ Fun fact  I love listening to music.
